@@ -19,9 +19,6 @@ class paper
 		World.add(world, this.body);
 
 	}
-
-     
-
 	display()
 	{
 			
